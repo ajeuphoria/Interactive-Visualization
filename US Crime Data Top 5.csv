@@ -1,0 +1,946 @@
+year,state_name,Levels Of Crime,Category,Value
+1995,California,Level 4,Property Crime,1536830
+1996,California,Level 4,Property Crime,1385135
+1997,California,Level 4,Property Crime,1312367
+2004,California,Level 4,Property Crime,1227194
+2003,California,Level 4,Property Crime,1215086
+2005,California,Level 4,Property Crime,1200531
+1998,California,Level 4,Property Crime,1188791
+2002,California,Level 4,Property Crime,1176484
+2006,California,Level 4,Property Crime,1159988
+2001,California,Level 4,Property Crime,1134189
+2007,California,Level 4,Property Crime,1112510
+2008,California,Level 4,Property Crime,1080996
+2000,California,Level 4,Property Crime,1056183
+1999,California,Level 4,Property Crime,1053285
+2012,California,Level 4,Property Crime,1049465
+2015,California,Level 4,Property Crime,1024914
+2013,California,Level 4,Property Crime,1018907
+2003,Texas,Level 4,Property Crime,1016735
+2004,Texas,Level 4,Property Crime,1010702
+2009,California,Level 4,Property Crime,1009433
+2002,Texas,Level 4,Property Crime,1004274
+2009,Texas,Level 4,Property Crime,995082
+2005,Texas,Level 4,Property Crime,990293
+2007,Texas,Level 4,Property Crime,985421
+2010,California,Level 4,Property Crime,981939
+2001,Texas,Level 4,Property Crime,976654
+2011,California,Level 4,Property Crime,973822
+2008,Texas,Level 4,Property Crime,969865
+1996,Texas,Level 4,Property Crime,968732
+2006,Texas,Level 4,Property Crime,959846
+2010,Texas,Level 4,Property Crime,951246
+1997,Texas,Level 4,Property Crime,948231
+2014,California,Level 4,Property Crime,947193
+1995,Texas,Level 4,Property Crime,940033
+1995,Florida,Level 4,Property Crime,939288
+1996,Florida,Level 4,Property Crime,928273
+2000,Texas,Level 4,Property Crime,919658
+1997,Florida,Level 4,Property Crime,915613
+1995,California,Level 4,Larceny,902456
+1998,Texas,Level 4,Property Crime,898496
+1999,Texas,Level 4,Property Crime,896261
+2011,Texas,Level 4,Property Crime,892810
+1998,Florida,Level 4,Property Crime,887107
+2012,Texas,Level 4,Property Crime,876459
+2013,Texas,Level 4,Property Crime,862289
+1996,California,Level 4,Larceny,830457
+2014,Texas,Level 4,Property Crime,813515
+1999,Florida,Level 4,Property Crime,808674
+1997,California,Level 4,Larceny,784405
+2001,Florida,Level 4,Property Crime,782517
+2000,Florida,Level 4,Property Crime,780377
+2015,Texas,Level 4,Property Crime,779234
+2002,Florida,Level 4,Property Crime,777236
+2008,Florida,Level 4,Property Crime,758889
+2003,Florida,Level 4,Property Crime,757696
+2007,Florida,Level 4,Property Crime,746249
+2003,California,Level 4,Larceny,731486
+2004,California,Level 4,Larceny,728687
+2004,Florida,Level 4,Property Crime,727141
+1998,California,Level 4,Larceny,724262
+2006,Florida,Level 4,Property Crime,721101
+2002,California,Level 4,Larceny,715692
+2005,Florida,Level 4,Property Crime,712998
+2009,Florida,Level 4,Property Crime,712010
+2003,Texas,Level 4,Larceny,698644
+2001,California,Level 4,Larceny,697739
+2004,Texas,Level 4,Larceny,696507
+2005,California,Level 4,Larceny,692467
+2002,Texas,Level 4,Larceny,688992
+2009,Texas,Level 4,Larceny,678455
+2005,Texas,Level 4,Larceny,677042
+1995,New York,Level 4,Property Crime,674342
+2011,Florida,Level 4,Property Crime,671200
+2001,Texas,Level 4,Larceny,669625
+2006,California,Level 4,Larceny,669103
+2010,Florida,Level 4,Property Crime,669035
+2007,Texas,Level 4,Larceny,663101
+1999,California,Level 4,Larceny,660991
+1996,Texas,Level 4,Larceny,659414
+2015,California,Level 4,Larceny,656517
+2010,Texas,Level 4,Larceny,654626
+2007,California,Level 4,Larceny,654526
+2008,Texas,Level 4,Larceny,654435
+2000,California,Level 4,Larceny,651855
+2008,California,Level 4,Larceny,650656
+2006,Texas,Level 4,Larceny,648711
+1997,Texas,Level 4,Larceny,645451
+2000,Texas,Level 4,Larceny,637522
+2012,California,Level 4,Larceny,635090
+2012,Florida,Level 4,Property Crime,632988
+1995,Texas,Level 4,Larceny,632468
+2013,California,Level 4,Larceny,621557
+1996,New York,Level 4,Property Crime,619250
+2009,California,Level 4,Larceny,615402
+1999,Texas,Level 4,Larceny,613862
+2011,Texas,Level 4,Larceny,613131
+1995,Florida,Level 4,Larceny,612311
+2013,Florida,Level 4,Property Crime,607170
+1998,Texas,Level 4,Larceny,606967
+2012,Texas,Level 4,Larceny,606425
+1996,Florida,Level 4,Larceny,605448
+2013,Texas,Level 4,Larceny,605440
+2010,California,Level 4,Larceny,600558
+2011,California,Level 4,Larceny,596905
+1997,Florida,Level 4,Larceny,594492
+2014,California,Level 4,Larceny,592673
+1997,New York,Level 4,Property Crime,584438
+2014,Florida,Level 4,Property Crime,583774
+1998,Florida,Level 4,Larceny,579752
+2014,Texas,Level 4,Larceny,577018
+2015,Florida,Level 4,Property Crime,570270
+2015,Texas,Level 4,Larceny,558653
+1998,New York,Level 4,Property Crime,536287
+1999,Florida,Level 4,Larceny,534105
+1995,Illinois,Level 4,Property Crime,527572
+1996,Illinois,Level 4,Property Crime,524777
+2000,Florida,Level 4,Larceny,518298
+2001,Florida,Level 4,Larceny,516548
+2002,Florida,Level 4,Larceny,511478
+1997,Illinois,Level 4,Property Crime,509113
+2008,Florida,Level 4,Larceny,506902
+2003,Florida,Level 4,Larceny,505489
+2007,Florida,Level 4,Larceny,490783
+1999,New York,Level 4,Property Crime,489596
+1998,Illinois,Level 4,Property Crime,487915
+2000,New York,Level 4,Property Crime,483078
+2004,Florida,Level 4,Larceny,482484
+2009,Florida,Level 4,Larceny,479867
+2006,Florida,Level 4,Larceny,473774
+2005,Florida,Level 4,Larceny,472912
+1999,Illinois,Level 4,Property Crime,463939
+2011,Florida,Level 4,Larceny,461408
+2010,Florida,Level 4,Larceny,458454
+2001,New York,Level 4,Property Crime,458003
+2000,Illinois,Level 4,Property Crime,445278
+2012,Florida,Level 4,Larceny,442095
+2002,New York,Level 4,Property Crime,442091
+2001,Illinois,Level 4,Property Crime,434648
+2013,Florida,Level 4,Larceny,433344
+2003,New York,Level 4,Property Crime,432079
+2002,Illinois,Level 4,Property Crime,430479
+2014,Florida,Level 4,Larceny,426197
+1995,New York,Level 4,Larceny,425184
+2006,Ohio,Level 4,Property Crime,423334
+2004,New York,Level 4,Property Crime,422734
+2015,Florida,Level 4,Larceny,420341
+2003,Illinois,Level 4,Property Crime,415885
+2005,New York,Level 4,Property Crime,405990
+2004,Illinois,Level 4,Property Crime,403486
+1996,New York,Level 4,Larceny,399522
+2006,New York,Level 4,Property Crime,398577
+2005,Illinois,Level 4,Property Crime,394670
+2008,New York,Level 4,Property Crime,388599
+1997,New York,Level 4,Larceny,386435
+2007,New York,Level 4,Property Crime,383624
+2011,Ohio,Level 4,Property Crime,380572
+2010,New York,Level 4,Property Crime,379710
+2008,Illinois,Level 4,Property Crime,378355
+2009,New York,Level 4,Property Crime,377537
+2007,Illinois,Level 4,Property Crime,377322
+2010,Ohio,Level 4,Property Crime,376836
+2012,New York,Level 4,Property Crime,375268
+2011,New York,Level 4,Property Crime,371837
+2012,Ohio,Level 4,Property Crime,370435
+1998,New York,Level 4,Larceny,363295
+2013,New York,Level 4,Property Crime,358603
+1996,Illinois,Level 4,Larceny,358515
+1995,Illinois,Level 4,Larceny,357143
+1995,California,Level 3,Burglary,353895
+2009,Illinois,Level 4,Property Crime,353347
+1997,Illinois,Level 4,Larceny,350140
+2000,New York,Level 4,Larceny,340901
+2013,Georgia,Level 4,Property Crime,339808
+2014,Georgia,Level 4,Property Crime,339146
+2014,New York,Level 4,Property Crime,339113
+1999,New York,Level 4,Larceny,338118
+1998,Illinois,Level 4,Larceny,337191
+2001,New York,Level 4,Larceny,329316
+1999,Illinois,Level 4,Larceny,320954
+2002,New York,Level 4,Larceny,318025
+2015,New York,Level 4,Property Crime,317225
+2015,Georgia,Level 4,Property Crime,316013
+2000,Illinois,Level 4,Larceny,313161
+1996,California,Level 3,Burglary,312212
+2003,New York,Level 4,Larceny,311422
+2004,New York,Level 4,Larceny,311036
+2001,Illinois,Level 4,Larceny,306757
+1995,California,Level 2,Violent Crime,305154
+2002,Illinois,Level 4,Larceny,304227
+2005,New York,Level 4,Larceny,302220
+1997,California,Level 3,Burglary,299240
+2008,New York,Level 4,Larceny,297962
+2006,New York,Level 4,Larceny,297827
+2003,Illinois,Level 4,Larceny,295907
+2012,New York,Level 4,Larceny,293562
+2010,New York,Level 4,Larceny,293232
+2009,New York,Level 4,Larceny,292897
+2007,New York,Level 4,Larceny,290681
+2011,New York,Level 4,Larceny,287361
+2004,Illinois,Level 4,Larceny,287025
+2013,New York,Level 4,Larceny,286676
+1995,California,Level 3,Motor Vehicle Theft,280479
+2006,Ohio,Level 4,Larceny,279718
+2005,Illinois,Level 4,Larceny,277662
+1996,California,Level 2,Violent Crime,274996
+2014,New York,Level 4,Larceny,272624
+1998,California,Level 3,Burglary,269012
+2007,Illinois,Level 4,Larceny,267911
+2008,Illinois,Level 4,Larceny,266815
+2015,New York,Level 4,Larceny,257837
+1997,California,Level 2,Violent Crime,257582
+2005,California,Level 3,Motor Vehicle Theft,257543
+2004,California,Level 3,Motor Vehicle Theft,252604
+2005,California,Level 3,Burglary,250521
+2009,Illinois,Level 4,Larceny,248821
+2010,Ohio,Level 4,Larceny,248581
+2006,California,Level 3,Burglary,247230
+2011,Ohio,Level 4,Larceny,246744
+2004,California,Level 3,Burglary,245903
+2012,California,Level 3,Burglary,245767
+2012,Ohio,Level 4,Larceny,245372
+2006,California,Level 3,Motor Vehicle Theft,243655
+1996,California,Level 3,Motor Vehicle Theft,242466
+2003,California,Level 3,Burglary,242274
+2003,California,Level 3,Motor Vehicle Theft,241326
+2009,Texas,Level 3,Burglary,240058
+2002,California,Level 3,Burglary,238428
+2007,California,Level 3,Burglary,237850
+2008,California,Level 3,Burglary,237811
+2014,Georgia,Level 4,Larceny,233359
+2001,California,Level 3,Burglary,232273
+2013,California,Level 3,Burglary,232058
+2009,California,Level 3,Burglary,230198
+2011,California,Level 3,Burglary,230075
+2008,Texas,Level 3,Burglary,230046
+1998,California,Level 2,Violent Crime,229883
+2013,Georgia,Level 4,Larceny,229190
+2010,California,Level 3,Burglary,228857
+1997,California,Level 3,Motor Vehicle Theft,228722
+2010,Texas,Level 3,Burglary,228597
+2007,Texas,Level 3,Burglary,228320
+1999,California,Level 3,Burglary,223814
+2002,California,Level 3,Motor Vehicle Theft,222364
+2000,California,Level 3,Burglary,222293
+2015,Georgia,Level 4,Larceny,220715
+2007,California,Level 3,Motor Vehicle Theft,220134
+2004,Texas,Level 3,Burglary,220118
+2003,Texas,Level 3,Burglary,219877
+2005,Texas,Level 3,Burglary,219828
+1996,Florida,Level 3,Burglary,219056
+2011,Texas,Level 3,Burglary,215755
+2006,Texas,Level 3,Burglary,215710
+1995,Florida,Level 3,Burglary,215657
+1997,Florida,Level 3,Burglary,213926
+2001,California,Level 2,Violent Crime,212867
+2002,Texas,Level 3,Burglary,212602
+2000,California,Level 2,Violent Crime,210531
+2002,California,Level 2,Violent Crime,208388
+1999,California,Level 2,Violent Crime,207879
+2003,California,Level 2,Violent Crime,205551
+2012,Texas,Level 3,Burglary,205002
+1996,Texas,Level 3,Burglary,204390
+2001,Texas,Level 3,Burglary,204362
+2001,California,Level 3,Motor Vehicle Theft,204177
+1998,Florida,Level 3,Burglary,203105
+2014,California,Level 3,Burglary,202669
+1995,Texas,Level 3,Burglary,202642
+1997,Texas,Level 3,Burglary,201059
+2015,California,Level 3,Burglary,197404
+1998,California,Level 3,Motor Vehicle Theft,195517
+1998,Texas,Level 3,Burglary,194883
+2006,California,Level 2,Violent Crime,194483
+2008,California,Level 3,Motor Vehicle Theft,192529
+2007,California,Level 2,Violent Crime,191561
+2013,Texas,Level 3,Burglary,191062
+1999,Texas,Level 3,Burglary,190362
+2005,California,Level 2,Violent Crime,190178
+2004,California,Level 2,Violent Crime,189175
+2000,Texas,Level 3,Burglary,188975
+2008,Florida,Level 3,Burglary,188472
+1995,California,Level 2,Aggravated Assault,186458
+2008,California,Level 2,Violent Crime,185329
+2000,California,Level 3,Motor Vehicle Theft,182035
+2009,Florida,Level 3,Burglary,181884
+2007,Florida,Level 3,Burglary,181836
+1999,Florida,Level 3,Burglary,181378
+2002,Florida,Level 3,Burglary,177242
+2001,Florida,Level 3,Burglary,176052
+2009,California,Level 2,Violent Crime,174934
+2000,Florida,Level 3,Burglary,172898
+2015,California,Level 3,Motor Vehicle Theft,170993
+2006,Florida,Level 3,Burglary,170873
+2003,Florida,Level 3,Burglary,170644
+2011,Florida,Level 3,Burglary,170171
+2010,Florida,Level 3,Burglary,169119
+2012,California,Level 3,Motor Vehicle Theft,168608
+1999,California,Level 3,Motor Vehicle Theft,168480
+2014,Texas,Level 3,Burglary,168085
+1996,California,Level 2,Aggravated Assault,167614
+2015,California,Level 2,Violent Crime,166883
+2004,Florida,Level 3,Burglary,166332
+2013,California,Level 3,Motor Vehicle Theft,165292
+2005,Florida,Level 3,Burglary,164783
+2010,California,Level 2,Violent Crime,164133
+2009,California,Level 3,Motor Vehicle Theft,163833
+1997,California,Level 2,Aggravated Assault,163346
+2012,California,Level 2,Violent Crime,160944
+2011,California,Level 2,Violent Crime,154943
+2013,California,Level 2,Violent Crime,154739
+2014,California,Level 2,Violent Crime,153763
+2012,Florida,Level 3,Burglary,153563
+2015,Texas,Level 3,Burglary,153067
+1995,New York,Level 2,Violent Crime,152683
+2010,California,Level 3,Motor Vehicle Theft,152524
+2014,California,Level 3,Motor Vehicle Theft,151851
+1995,Florida,Level 2,Violent Crime,151711
+1996,Florida,Level 2,Violent Crime,151350
+1997,Florida,Level 2,Violent Crime,149996
+1998,California,Level 2,Aggravated Assault,149148
+2011,California,Level 3,Motor Vehicle Theft,146842
+1995,New York,Level 3,Burglary,146562
+1998,Florida,Level 2,Violent Crime,140016
+2013,Florida,Level 3,Burglary,138915
+2000,California,Level 2,Aggravated Assault,138418
+1999,California,Level 2,Aggravated Assault,136472
+2001,California,Level 2,Aggravated Assault,136087
+1996,New York,Level 2,Violent Crime,132206
+2007,Florida,Level 2,Violent Crime,131878
+2002,California,Level 2,Aggravated Assault,130827
+2001,Florida,Level 2,Violent Crime,130713
+1996,New York,Level 3,Burglary,129828
+2000,Florida,Level 2,Violent Crime,129777
+2006,Florida,Level 2,Violent Crime,129602
+2003,California,Level 2,Aggravated Assault,129380
+1999,Florida,Level 2,Violent Crime,129044
+2002,Florida,Level 2,Violent Crime,128721
+2008,Florida,Level 2,Violent Crime,126256
+2002,Texas,Level 2,Violent Crime,126018
+2005,Florida,Level 2,Violent Crime,125957
+1997,New York,Level 2,Violent Crime,124890
+1995,Texas,Level 2,Violent Crime,124303
+2003,Florida,Level 2,Violent Crime,124280
+2004,Florida,Level 2,Violent Crime,123754
+2008,Texas,Level 2,Violent Crime,123585
+1996,Texas,Level 2,Violent Crime,123270
+2003,Texas,Level 2,Violent Crime,122246
+2001,Texas,Level 2,Violent Crime,122155
+2007,Texas,Level 2,Violent Crime,122014
+2009,Texas,Level 2,Violent Crime,121684
+2006,Texas,Level 2,Violent Crime,121602
+2004,Texas,Level 2,Violent Crime,121554
+2014,Florida,Level 3,Burglary,121379
+2005,Texas,Level 2,Violent Crime,121091
+1997,New York,Level 3,Burglary,118306
+1995,Illinois,Level 2,Violent Crime,117836
+1997,Texas,Level 2,Violent Crime,117126
+1998,New York,Level 2,Violent Crime,115915
+2004,California,Level 2,Aggravated Assault,115400
+2005,California,Level 2,Aggravated Assault,114661
+2000,Texas,Level 2,Violent Crime,113653
+2009,Florida,Level 2,Violent Crime,113541
+2010,Texas,Level 2,Violent Crime,113231
+2015,Texas,Level 2,Violent Crime,113193
+2011,Ohio,Level 3,Burglary,112901
+1999,Texas,Level 2,Violent Crime,112306
+2006,California,Level 2,Aggravated Assault,111620
+1998,Texas,Level 2,Violent Crime,111566
+1995,Florida,Level 3,Motor Vehicle Theft,111320
+2014,Texas,Level 2,Violent Crime,109711
+2007,California,Level 2,Aggravated Assault,109547
+2015,Florida,Level 3,Burglary,109268
+2013,Texas,Level 2,Violent Crime,108757
+1995,Illinois,Level 3,Burglary,108555
+1996,Illinois,Level 3,Burglary,108185
+1997,Florida,Level 3,Motor Vehicle Theft,107195
+1999,New York,Level 2,Violent Crime,107147
+2010,Ohio,Level 3,Burglary,107125
+2012,Texas,Level 2,Violent Crime,106475
+2006,Ohio,Level 3,Burglary,105639
+1996,Illinois,Level 2,Violent Crime,105482
+2012,Ohio,Level 3,Burglary,105312
+2000,New York,Level 2,Violent Crime,105111
+1996,Texas,Level 3,Motor Vehicle Theft,104928
+1995,Texas,Level 3,Motor Vehicle Theft,104923
+2008,California,Level 2,Aggravated Assault,104896
+1998,New York,Level 3,Burglary,104821
+2011,Texas,Level 2,Violent Crime,104734
+1995,California,Level 3,Robbery,104611
+1998,Florida,Level 3,Motor Vehicle Theft,104250
+1996,Florida,Level 3,Motor Vehicle Theft,103769
+1997,Illinois,Level 3,Burglary,103550
+2002,Texas,Level 3,Motor Vehicle Theft,102680
+2001,Texas,Level 3,Motor Vehicle Theft,102667
+1995,New York,Level 3,Motor Vehicle Theft,102596
+1997,Illinois,Level 2,Violent Crime,102476
+2010,Florida,Level 2,Violent Crime,101969
+1997,Texas,Level 3,Motor Vehicle Theft,101721
+1995,Florida,Level 2,Aggravated Assault,101302
+1996,Florida,Level 2,Aggravated Assault,101122
+1997,Florida,Level 2,Aggravated Assault,100926
+2009,California,Level 2,Aggravated Assault,100156
+2015,California,Level 2,Aggravated Assault,99349
+2003,Texas,Level 3,Motor Vehicle Theft,98214
+2011,Florida,Level 2,Violent Crime,98198
+2001,New York,Level 2,Violent Crime,98022
+1998,Illinois,Level 3,Burglary,97792
+1998,Illinois,Level 2,Violent Crime,97291
+1998,Texas,Level 3,Motor Vehicle Theft,96646
+2010,California,Level 2,Aggravated Assault,95877
+1998,Florida,Level 2,Aggravated Assault,95447
+2006,Texas,Level 3,Motor Vehicle Theft,95425
+2002,New York,Level 2,Violent Crime,95030
+2012,California,Level 2,Aggravated Assault,94702
+1996,California,Level 3,Robbery,94222
+2012,Florida,Level 2,Violent Crime,94087
+2004,Texas,Level 3,Motor Vehicle Theft,94077
+2007,Texas,Level 3,Motor Vehicle Theft,94000
+2015,Florida,Level 2,Violent Crime,93625
+2005,Texas,Level 3,Motor Vehicle Theft,93423
+1999,New York,Level 3,Burglary,93217
+1999,Florida,Level 3,Motor Vehicle Theft,93191
+2000,Texas,Level 3,Motor Vehicle Theft,93161
+1999,Texas,Level 3,Motor Vehicle Theft,92037
+2013,Florida,Level 2,Violent Crime,91993
+2014,California,Level 2,Aggravated Assault,91804
+2014,Florida,Level 2,Violent Crime,91345
+2011,California,Level 2,Aggravated Assault,91195
+2001,Florida,Level 2,Aggravated Assault,90331
+2000,Florida,Level 2,Aggravated Assault,90008
+2001,Florida,Level 3,Motor Vehicle Theft,89917
+1996,New York,Level 3,Motor Vehicle Theft,89900
+2003,New York,Level 2,Violent Crime,89486
+1999,Florida,Level 2,Aggravated Assault,89226
+2000,Florida,Level 3,Motor Vehicle Theft,89181
+2013,California,Level 2,Aggravated Assault,89029
+2002,Florida,Level 3,Motor Vehicle Theft,88516
+2002,Florida,Level 2,Aggravated Assault,88476
+2005,Florida,Level 2,Aggravated Assault,88341
+2000,New York,Level 3,Burglary,87946
+2006,Florida,Level 2,Aggravated Assault,87851
+2007,Florida,Level 2,Aggravated Assault,86372
+1999,Illinois,Level 3,Burglary,86317
+2004,Florida,Level 2,Aggravated Assault,86199
+2005,New York,Level 2,Violent Crime,85839
+2008,Texas,Level 3,Motor Vehicle Theft,85384
+2003,Florida,Level 2,Aggravated Assault,85106
+2004,New York,Level 2,Violent Crime,84914
+2006,New York,Level 2,Violent Crime,84016
+1999,Illinois,Level 2,Violent Crime,83621
+2013,Georgia,Level 3,Burglary,83459
+2008,Florida,Level 2,Aggravated Assault,82848
+2000,Illinois,Level 3,Burglary,81850
+2003,Florida,Level 3,Motor Vehicle Theft,81563
+1997,California,Level 3,Robbery,81468
+2002,Illinois,Level 3,Burglary,81440
+2000,Illinois,Level 2,Violent Crime,81196
+1996,Texas,Level 2,Aggravated Assault,80613
+2001,New York,Level 3,Burglary,80400
+1995,Texas,Level 2,Aggravated Assault,80380
+2007,New York,Level 2,Violent Crime,79962
+1997,New York,Level 3,Motor Vehicle Theft,79697
+2012,New York,Level 2,Violent Crime,79535
+2001,Illinois,Level 2,Violent Crime,79270
+2001,Illinois,Level 3,Burglary,79158
+2008,Illinois,Level 3,Burglary,78968
+2002,Texas,Level 2,Aggravated Assault,78628
+2003,Illinois,Level 3,Burglary,78345
+2004,Florida,Level 3,Motor Vehicle Theft,78325
+2014,Georgia,Level 3,Burglary,78029
+2009,Illinois,Level 3,Burglary,77850
+2005,Illinois,Level 3,Burglary,77635
+2013,New York,Level 2,Violent Crime,77563
+2008,New York,Level 2,Violent Crime,77546
+2011,New York,Level 2,Violent Crime,77463
+2001,Texas,Level 2,Aggravated Assault,77306
+1997,Texas,Level 2,Aggravated Assault,77266
+2002,New York,Level 3,Burglary,76700
+2009,Texas,Level 3,Motor Vehicle Theft,76569
+2010,New York,Level 2,Violent Crime,76492
+2006,Florida,Level 3,Motor Vehicle Theft,76454
+2008,Texas,Level 2,Aggravated Assault,76421
+2009,Florida,Level 2,Aggravated Assault,76112
+2004,Illinois,Level 3,Burglary,76088
+2004,Texas,Level 2,Aggravated Assault,75985
+2014,New York,Level 2,Violent Crime,75972
+2003,Texas,Level 2,Aggravated Assault,75782
+2002,Illinois,Level 2,Violent Crime,75759
+2007,Illinois,Level 3,Burglary,75524
+2003,New York,Level 3,Burglary,75453
+2005,Texas,Level 2,Aggravated Assault,75383
+2005,Florida,Level 3,Motor Vehicle Theft,75303
+2015,New York,Level 2,Violent Crime,75126
+2009,New York,Level 2,Violent Crime,75110
+2006,Texas,Level 2,Aggravated Assault,74531
+1995,New York,Level 2,Aggravated Assault,74351
+2000,Texas,Level 2,Aggravated Assault,74302
+1999,Texas,Level 2,Aggravated Assault,74070
+2009,Texas,Level 2,Aggravated Assault,74021
+1998,Texas,Level 2,Aggravated Assault,73630
+2007,Florida,Level 3,Motor Vehicle Theft,73630
+2007,Texas,Level 2,Aggravated Assault,73357
+1995,Illinois,Level 2,Aggravated Assault,73163
+1995,New York,Level 3,Robbery,72492
+2010,Texas,Level 2,Aggravated Assault,71517
+2006,California,Level 3,Robbery,71142
+2007,California,Level 3,Robbery,70706
+2004,New York,Level 3,Burglary,70696
+2005,Illinois,Level 2,Violent Crime,70496
+2003,Illinois,Level 2,Violent Crime,70376
+2010,Florida,Level 2,Aggravated Assault,69523
+2008,California,Level 3,Robbery,69388
+2004,Illinois,Level 2,Violent Crime,69365
+1998,California,Level 3,Robbery,68782
+2006,New York,Level 3,Burglary,68617
+2007,Illinois,Level 2,Violent Crime,68528
+2014,Texas,Level 3,Motor Vehicle Theft,68412
+1998,New York,Level 3,Motor Vehicle Theft,68171
+2015,Georgia,Level 3,Burglary,68149
+2005,New York,Level 3,Burglary,68034
+2010,Texas,Level 3,Motor Vehicle Theft,68023
+2008,Illinois,Level 2,Violent Crime,67780
+2015,Texas,Level 2,Aggravated Assault,67629
+2015,Texas,Level 3,Motor Vehicle Theft,67514
+2011,Texas,Level 2,Aggravated Assault,67498
+2012,Texas,Level 2,Aggravated Assault,67227
+1996,Illinois,Level 2,Aggravated Assault,66649
+2011,Florida,Level 2,Aggravated Assault,66319
+2014,Texas,Level 2,Aggravated Assault,65862
+2010,New York,Level 3,Burglary,65839
+2013,Texas,Level 3,Motor Vehicle Theft,65787
+2008,New York,Level 3,Burglary,65544
+2013,Texas,Level 2,Aggravated Assault,65351
+2011,New York,Level 3,Burglary,65227
+2012,Texas,Level 3,Motor Vehicle Theft,65032
+2002,California,Level 3,Robbery,64968
+2007,New York,Level 3,Burglary,64914
+1996,New York,Level 2,Aggravated Assault,64857
+2001,California,Level 3,Robbery,64614
+2012,New York,Level 3,Burglary,64389
+2009,Illinois,Level 2,Violent Crime,64185
+2009,California,Level 3,Robbery,64093
+2012,Florida,Level 2,Aggravated Assault,63929
+2011,Texas,Level 3,Motor Vehicle Theft,63924
+2015,Florida,Level 2,Aggravated Assault,63895
+1997,Illinois,Level 2,Aggravated Assault,63842
+2003,California,Level 3,Robbery,63770
+1997,New York,Level 2,Aggravated Assault,63628
+2005,California,Level 3,Robbery,63622
+2008,Florida,Level 3,Motor Vehicle Theft,63515
+2009,New York,Level 3,Burglary,62769
+1998,Illinois,Level 2,Aggravated Assault,62261
+1998,New York,Level 2,Aggravated Assault,62023
+1995,Illinois,Level 3,Motor Vehicle Theft,61874
+1996,New York,Level 3,Robbery,61822
+2004,California,Level 3,Robbery,61768
+2014,Florida,Level 2,Aggravated Assault,61610
+2013,Florida,Level 2,Aggravated Assault,61054
+2000,California,Level 3,Robbery,60249
+2000,New York,Level 2,Aggravated Assault,60090
+1999,California,Level 3,Robbery,60039
+1999,New York,Level 2,Aggravated Assault,58860
+1999,New York,Level 3,Motor Vehicle Theft,58261
+2010,California,Level 3,Robbery,58116
+1996,Illinois,Level 3,Motor Vehicle Theft,58077
+2001,New York,Level 2,Aggravated Assault,56961
+1999,Illinois,Level 3,Motor Vehicle Theft,56668
+2012,California,Level 3,Robbery,56521
+2013,New York,Level 3,Burglary,56444
+1997,New York,Level 3,Robbery,56094
+1997,Illinois,Level 3,Motor Vehicle Theft,55423
+2011,California,Level 3,Robbery,54291
+2000,New York,Level 3,Motor Vehicle Theft,54231
+2013,California,Level 3,Robbery,53640
+2002,New York,Level 2,Aggravated Assault,53583
+1998,Illinois,Level 3,Motor Vehicle Theft,52932
+2015,California,Level 3,Robbery,52862
+1999,Illinois,Level 2,Aggravated Assault,52020
+2014,New York,Level 3,Burglary,50738
+2000,Illinois,Level 2,Aggravated Assault,50731
+2000,Illinois,Level 3,Motor Vehicle Theft,50267
+2009,Florida,Level 3,Motor Vehicle Theft,50259
+2001,Illinois,Level 2,Aggravated Assault,49347
+1998,New York,Level 3,Robbery,49125
+2003,New York,Level 2,Aggravated Assault,48987
+2001,Illinois,Level 3,Motor Vehicle Theft,48733
+2014,California,Level 3,Robbery,48681
+2001,New York,Level 3,Motor Vehicle Theft,48287
+2012,New York,Level 2,Aggravated Assault,47382
+2002,New York,Level 3,Motor Vehicle Theft,47366
+2004,New York,Level 2,Aggravated Assault,46911
+2005,New York,Level 2,Aggravated Assault,46150
+2013,New York,Level 2,Aggravated Assault,46130
+2011,New York,Level 2,Aggravated Assault,45538
+2006,New York,Level 2,Aggravated Assault,45467
+2014,New York,Level 2,Aggravated Assault,45295
+2003,New York,Level 3,Motor Vehicle Theft,45204
+2007,New York,Level 2,Aggravated Assault,45144
+2002,Illinois,Level 2,Aggravated Assault,45114
+2002,Illinois,Level 3,Motor Vehicle Theft,44812
+2015,New York,Level 2,Aggravated Assault,44493
+2010,New York,Level 2,Aggravated Assault,44197
+2015,New York,Level 3,Burglary,44117
+1999,New York,Level 3,Robbery,43821
+2009,New York,Level 2,Aggravated Assault,43606
+1995,Florida,Level 3,Robbery,42485
+2005,Illinois,Level 2,Aggravated Assault,42158
+2008,New York,Level 2,Aggravated Assault,42125
+2004,Illinois,Level 2,Aggravated Assault,41783
+1996,Florida,Level 3,Robbery,41643
+2003,Illinois,Level 3,Motor Vehicle Theft,41633
+2003,Illinois,Level 2,Aggravated Assault,41506
+2006,Ohio,Level 2,Violent Crime,41491
+2010,Florida,Level 3,Motor Vehicle Theft,41462
+2004,New York,Level 3,Motor Vehicle Theft,41002
+2015,Florida,Level 3,Motor Vehicle Theft,40661
+2007,Illinois,Level 2,Aggravated Assault,40573
+2000,New York,Level 3,Robbery,40539
+1997,Florida,Level 3,Robbery,40459
+2004,Illinois,Level 3,Motor Vehicle Theft,40373
+2011,Florida,Level 3,Motor Vehicle Theft,39621
+2005,Illinois,Level 3,Motor Vehicle Theft,39373
+1995,Illinois,Level 3,Robbery,39139
+2014,Georgia,Level 2,Violent Crime,38955
+2015,Georgia,Level 2,Violent Crime,38891
+2008,Illinois,Level 2,Aggravated Assault,38818
+2007,Texas,Level 3,Robbery,38778
+2007,Florida,Level 3,Robbery,38155
+2009,Texas,Level 3,Robbery,38022
+2006,Ohio,Level 3,Motor Vehicle Theft,37977
+2008,Texas,Level 3,Robbery,37739
+2002,Texas,Level 3,Robbery,37580
+2013,Georgia,Level 2,Violent Crime,37519
+2012,Florida,Level 3,Motor Vehicle Theft,37330
+2006,Texas,Level 3,Robbery,37256
+2003,Texas,Level 3,Robbery,37017
+2002,New York,Level 3,Robbery,36653
+2009,Illinois,Level 2,Aggravated Assault,36588
+2001,New York,Level 3,Robbery,36555
+2010,Ohio,Level 2,Violent Crime,36306
+2008,Florida,Level 3,Robbery,36268
+1998,Florida,Level 3,Robbery,36198
+2014,Florida,Level 3,Motor Vehicle Theft,36198
+2004,Texas,Level 3,Robbery,35817
+2003,New York,Level 3,Robbery,35790
+2005,Texas,Level 3,Robbery,35790
+2005,New York,Level 3,Motor Vehicle Theft,35736
+2001,Texas,Level 3,Robbery,35348
+2011,Ohio,Level 2,Violent Crime,35218
+2005,New York,Level 3,Robbery,35179
+2013,Florida,Level 3,Motor Vehicle Theft,34911
+2012,Ohio,Level 2,Violent Crime,34827
+2006,New York,Level 3,Robbery,34459
+2006,Florida,Level 3,Robbery,34147
+2007,Illinois,Level 3,Motor Vehicle Theft,33887
+1995,Texas,Level 3,Robbery,33667
+2004,New York,Level 3,Robbery,33506
+1997,Illinois,Level 3,Robbery,33123
+1996,Illinois,Level 3,Robbery,33106
+2001,Florida,Level 3,Robbery,32867
+2010,Texas,Level 3,Robbery,32843
+1996,Texas,Level 3,Robbery,32804
+2002,Florida,Level 3,Robbery,32581
+2008,Illinois,Level 3,Motor Vehicle Theft,32572
+2006,New York,Level 3,Motor Vehicle Theft,32133
+1999,Florida,Level 3,Robbery,31969
+2015,Texas,Level 3,Robbery,31924
+2013,Texas,Level 3,Robbery,31810
+2000,Florida,Level 3,Robbery,31809
+2008,New York,Level 3,Robbery,31787
+2003,Florida,Level 3,Robbery,31523
+2007,New York,Level 3,Robbery,31085
+2014,Texas,Level 3,Robbery,31021
+2009,Florida,Level 3,Robbery,30911
+1997,Texas,Level 3,Robbery,30522
+2012,Texas,Level 3,Robbery,30385
+2000,Texas,Level 3,Robbery,30257
+2005,Florida,Level 3,Robbery,30141
+2004,Florida,Level 3,Robbery,29997
+1998,Illinois,Level 3,Robbery,29927
+1999,Texas,Level 3,Robbery,29405
+1998,Texas,Level 3,Robbery,28677
+2012,New York,Level 3,Robbery,28633
+2010,New York,Level 3,Robbery,28630
+2011,Texas,Level 3,Robbery,28620
+2011,New York,Level 3,Robbery,28405
+2009,New York,Level 3,Robbery,28141
+2007,New York,Level 3,Motor Vehicle Theft,28029
+2014,Georgia,Level 3,Motor Vehicle Theft,27758
+2013,New York,Level 3,Robbery,27241
+2013,Georgia,Level 3,Motor Vehicle Theft,27159
+2015,Georgia,Level 3,Motor Vehicle Theft,27149
+2009,Illinois,Level 3,Motor Vehicle Theft,26676
+1999,Illinois,Level 3,Robbery,26365
+2010,Florida,Level 3,Robbery,26086
+2000,Illinois,Level 3,Robbery,25641
+2011,Florida,Level 3,Robbery,25622
+2002,Illinois,Level 3,Robbery,25314
+2008,New York,Level 3,Motor Vehicle Theft,25093
+2001,Illinois,Level 3,Robbery,24931
+2008,Illinois,Level 3,Robbery,24054
+2014,New York,Level 3,Robbery,24036
+2012,Florida,Level 3,Robbery,23889
+2015,New York,Level 3,Robbery,23879
+2003,Illinois,Level 3,Robbery,23786
+2005,Illinois,Level 3,Robbery,23255
+2013,Florida,Level 3,Robbery,23200
+2007,Illinois,Level 3,Robbery,23100
+2009,Illinois,Level 3,Robbery,22923
+2004,Illinois,Level 3,Robbery,22582
+2015,Georgia,Level 2,Aggravated Assault,22467
+2014,Georgia,Level 2,Aggravated Assault,22415
+2009,New York,Level 3,Motor Vehicle Theft,21871
+2014,Florida,Level 3,Robbery,21621
+2013,Georgia,Level 2,Aggravated Assault,21361
+2015,Florida,Level 3,Robbery,21137
+2010,Ohio,Level 3,Motor Vehicle Theft,21130
+2011,Ohio,Level 3,Motor Vehicle Theft,20927
+2010,New York,Level 3,Motor Vehicle Theft,20639
+2012,Ohio,Level 3,Motor Vehicle Theft,19751
+2006,Ohio,Level 3,Robbery,19418
+2011,New York,Level 3,Motor Vehicle Theft,19249
+2012,New York,Level 3,Motor Vehicle Theft,17317
+2006,Ohio,Level 2,Aggravated Assault,16743
+2010,Ohio,Level 3,Robbery,16486
+2011,Ohio,Level 3,Robbery,15991
+2014,New York,Level 3,Motor Vehicle Theft,15751
+2010,Ohio,Level 2,Aggravated Assault,15611
+2013,New York,Level 3,Motor Vehicle Theft,15483
+2012,Ohio,Level 3,Robbery,15396
+2015,New York,Level 3,Motor Vehicle Theft,15271
+2012,Ohio,Level 2,Aggravated Assault,15140
+2011,Ohio,Level 2,Aggravated Assault,15048
+2014,Georgia,Level 3,Robbery,12786
+2013,Georgia,Level 3,Robbery,12704
+2015,Georgia,Level 3,Robbery,12545
+1995,California,Level 1,Rape,10554
+1996,California,Level 1,Rape,10244
+2002,California,Level 1,Rape,10198
+1997,California,Level 1,Rape,10189
+2003,California,Level 1,Rape,9994
+2001,California,Level 1,Rape,9960
+2000,California,Level 1,Rape,9785
+1998,California,Level 1,Rape,9782
+2004,California,Level 1,Rape,9615
+2005,California,Level 1,Rape,9392
+1999,California,Level 1,Rape,9363
+2015,California,Level 1,Rape,9341
+2006,California,Level 1,Rape,9235
+2007,California,Level 1,Rape,9046
+2015,Texas,Level 1,Rape,8941
+2008,California,Level 1,Rape,8903
+2009,California,Level 1,Rape,8713
+1995,Texas,Level 1,Rape,8563
+2005,Texas,Level 1,Rape,8511
+2002,Texas,Level 1,Rape,8508
+2007,Texas,Level 1,Rape,8460
+2006,Texas,Level 1,Rape,8429
+2014,Texas,Level 1,Rape,8400
+2014,California,Level 1,Rape,8389
+2004,Texas,Level 1,Rape,8388
+1996,Texas,Level 1,Rape,8376
+2010,California,Level 1,Rape,8331
+2009,Texas,Level 1,Rape,8311
+2001,Texas,Level 1,Rape,8169
+2008,Texas,Level 1,Rape,8055
+2003,Texas,Level 1,Rape,8025
+1997,Texas,Level 1,Rape,8011
+1998,Texas,Level 1,Rape,7913
+2000,Texas,Level 1,Rape,7856
+2012,California,Level 1,Rape,7837
+2012,Texas,Level 1,Rape,7715
+2011,California,Level 1,Rape,7665
+2010,Texas,Level 1,Rape,7622
+1999,Texas,Level 1,Rape,7614
+2013,Texas,Level 1,Rape,7610
+1997,Florida,Level 1,Rape,7599
+1996,Florida,Level 1,Rape,7508
+2011,Texas,Level 1,Rape,7486
+2013,California,Level 1,Rape,7464
+1998,Florida,Level 1,Rape,7404
+2000,Florida,Level 1,Rape,7057
+1999,Florida,Level 1,Rape,6990
+1995,Florida,Level 1,Rape,6887
+2002,Florida,Level 1,Rape,6753
+2003,Florida,Level 1,Rape,6727
+2001,Florida,Level 1,Rape,6641
+2004,Florida,Level 1,Rape,6612
+2005,Florida,Level 1,Rape,6592
+2006,Florida,Level 1,Rape,6475
+2007,Florida,Level 1,Rape,6149
+2008,Florida,Level 1,Rape,5972
+2009,Florida,Level 1,Rape,5501
+2015,Florida,Level 1,Rape,5396
+2010,Florida,Level 1,Rape,5373
+2011,Florida,Level 1,Rape,5273
+2012,Florida,Level 1,Rape,5260
+2014,Florida,Level 1,Rape,5038
+2006,Ohio,Level 1,Rape,4770
+2013,Florida,Level 1,Rape,4765
+1996,Illinois,Level 1,Rape,4548
+1997,Illinois,Level 1,Rape,4415
+2015,New York,Level 1,Rape,4414
+2002,Illinois,Level 1,Rape,4370
+2014,New York,Level 1,Rape,4316
+1995,Illinois,Level 1,Rape,4313
+2005,Illinois,Level 1,Rape,4313
+1999,Illinois,Level 1,Rape,4297
+1995,New York,Level 1,Rape,4290
+2004,Illinois,Level 1,Rape,4220
+2003,Illinois,Level 1,Rape,4189
+1996,New York,Level 1,Rape,4174
+2008,Illinois,Level 1,Rape,4118
+2007,Illinois,Level 1,Rape,4103
+1998,Illinois,Level 1,Rape,4095
+1997,New York,Level 1,Rape,4075
+2001,Illinois,Level 1,Rape,4010
+2000,Illinois,Level 1,Rape,3926
+2009,Illinois,Level 1,Rape,3901
+2002,New York,Level 1,Rape,3885
+1998,New York,Level 1,Rape,3843
+2012,Ohio,Level 1,Rape,3813
+2003,New York,Level 1,Rape,3775
+2010,Ohio,Level 1,Rape,3730
+2011,Ohio,Level 1,Rape,3679
+2005,New York,Level 1,Rape,3636
+2004,New York,Level 1,Rape,3608
+1999,New York,Level 1,Rape,3563
+2001,New York,Level 1,Rape,3546
+1995,California,Level 1,Homicide,3531
+2000,New York,Level 1,Rape,3530
+2006,New York,Level 1,Rape,3168
+2007,New York,Level 1,Rape,2928
+1996,California,Level 1,Homicide,2916
+2012,New York,Level 1,Rape,2837
+2008,New York,Level 1,Rape,2798
+2010,New York,Level 1,Rape,2797
+2011,New York,Level 1,Rape,2751
+2009,New York,Level 1,Rape,2582
+1997,California,Level 1,Homicide,2579
+2013,New York,Level 1,Rape,2575
+2005,California,Level 1,Homicide,2503
+2006,California,Level 1,Homicide,2486
+2003,California,Level 1,Homicide,2407
+2002,California,Level 1,Homicide,2395
+2004,California,Level 1,Homicide,2392
+2015,Georgia,Level 1,Rape,2343
+2007,California,Level 1,Homicide,2262
+2014,Georgia,Level 1,Rape,2209
+2001,California,Level 1,Homicide,2206
+1998,California,Level 1,Homicide,2171
+2008,California,Level 1,Homicide,2142
+2000,California,Level 1,Homicide,2079
+2013,Georgia,Level 1,Rape,2022
+1999,California,Level 1,Homicide,2005
+2009,California,Level 1,Homicide,1972
+2012,California,Level 1,Homicide,1884
+2015,California,Level 1,Homicide,1861
+2010,California,Level 1,Homicide,1809
+2011,California,Level 1,Homicide,1792
+2013,California,Level 1,Homicide,1746
+2014,California,Level 1,Homicide,1700
+1995,Texas,Level 1,Homicide,1693
+1995,New York,Level 1,Homicide,1550
+1996,Texas,Level 1,Homicide,1477
+2003,Texas,Level 1,Homicide,1422
+2007,Texas,Level 1,Homicide,1419
+2005,Texas,Level 1,Homicide,1407
+2006,Texas,Level 1,Homicide,1386
+2008,Texas,Level 1,Homicide,1370
+2004,Texas,Level 1,Homicide,1364
+1996,New York,Level 1,Homicide,1353
+1998,Texas,Level 1,Homicide,1346
+2001,Texas,Level 1,Homicide,1332
+2009,Texas,Level 1,Homicide,1330
+1997,Texas,Level 1,Homicide,1327
+2015,Texas,Level 1,Homicide,1317
+2002,Texas,Level 1,Homicide,1302
+2010,Texas,Level 1,Homicide,1249
+2000,Texas,Level 1,Homicide,1238
+1995,Illinois,Level 1,Homicide,1221
+1999,Texas,Level 1,Homicide,1217
+2007,Florida,Level 1,Homicide,1202
+2014,Texas,Level 1,Homicide,1192
+1996,Illinois,Level 1,Homicide,1179
+2008,Florida,Level 1,Homicide,1168
+2012,Texas,Level 1,Homicide,1148
+2013,Texas,Level 1,Homicide,1140
+2011,Texas,Level 1,Homicide,1130
+2006,Florida,Level 1,Homicide,1129
+1997,Illinois,Level 1,Homicide,1096
+1997,New York,Level 1,Homicide,1093
+1996,Florida,Level 1,Homicide,1077
+2015,Florida,Level 1,Homicide,1041
+1995,Florida,Level 1,Homicide,1037
+2009,Florida,Level 1,Homicide,1017
+1997,Florida,Level 1,Homicide,1012
+2012,Florida,Level 1,Homicide,1009
+1998,Illinois,Level 1,Homicide,1008
+2010,Florida,Level 1,Homicide,987
+2011,Florida,Level 1,Homicide,984
+2001,Illinois,Level 1,Homicide,982
+2014,Florida,Level 1,Homicide,982
+2013,Florida,Level 1,Homicide,972
+1998,Florida,Level 1,Homicide,967
+2002,Illinois,Level 1,Homicide,961
+2001,New York,Level 1,Homicide,960
+2000,New York,Level 1,Homicide,952
+2004,Florida,Level 1,Homicide,946
+1999,Illinois,Level 1,Homicide,939
+2003,New York,Level 1,Homicide,934
+1998,New York,Level 1,Homicide,924
+2003,Florida,Level 1,Homicide,924
+2006,New York,Level 1,Homicide,922
+2002,Florida,Level 1,Homicide,911
+2002,New York,Level 1,Homicide,909
+1999,New York,Level 1,Homicide,903
+2000,Florida,Level 1,Homicide,903
+2000,Illinois,Level 1,Homicide,898
+2003,Illinois,Level 1,Homicide,895
+2004,New York,Level 1,Homicide,889
+2005,Florida,Level 1,Homicide,883
+2001,Florida,Level 1,Homicide,874
+2005,New York,Level 1,Homicide,874
+2010,New York,Level 1,Homicide,868
+1999,Florida,Level 1,Homicide,859
+2008,New York,Level 1,Homicide,836
+2007,New York,Level 1,Homicide,805
+2008,Illinois,Level 1,Homicide,790
+2009,New York,Level 1,Homicide,781
+2004,Illinois,Level 1,Homicide,780
+2009,Illinois,Level 1,Homicide,773
+2005,Illinois,Level 1,Homicide,770
+2011,New York,Level 1,Homicide,769
+2007,Illinois,Level 1,Homicide,752
+2012,New York,Level 1,Homicide,683
+2013,New York,Level 1,Homicide,644
+2015,Georgia,Level 1,Homicide,622
+2014,New York,Level 1,Homicide,616
+2015,New York,Level 1,Homicide,613
+2014,Georgia,Level 1,Homicide,607
+2013,Georgia,Level 1,Homicide,563
+2006,Ohio,Level 1,Homicide,560
+2011,Ohio,Level 1,Homicide,500
+2010,Ohio,Level 1,Homicide,479
+2012,Ohio,Level 1,Homicide,478
