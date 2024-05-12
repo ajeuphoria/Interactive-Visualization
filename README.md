@@ -1,4 +1,6 @@
-# This project is to visualize a given dataset of US crimes between (1995 -2005) using a Zoomable Sunburst Chart.
+# US crimes between (1995 -2005) - An Interactive Visualisation.
+
+This project is to visualize a given dataset of US crimes between (1995 -2005) using a Zoomable Sunburst Chart.
 
 I have taken the crime data for the Top 5 states having the most number of crimes.
 
